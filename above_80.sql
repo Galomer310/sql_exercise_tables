@@ -1,0 +1,1 @@
+SELECT price FROM items WHERE price > 80;
