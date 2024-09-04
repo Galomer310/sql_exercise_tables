@@ -1,0 +1,1 @@
+SELECT price FROM items ORDER BY price ASC;
